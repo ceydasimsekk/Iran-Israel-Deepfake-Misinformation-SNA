@@ -6,7 +6,7 @@
 
 ## İçindekiler
 
-- [Proje Hakkinda](#proje-hakkinda)
+- [Proje Hakkında](#proje-hakkinda)
 - [Veri Seti](#veri-seti)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
@@ -18,7 +18,7 @@
 
 ---
 
-## Proje Hakkinda
+## Proje Hakkında
 
 Bu proje, İran–İsrail çatışması bağlamında çeşitli sosyal medya platformlarından (Twitter/X, Instagram, TikTok vb.) toplanan herkese açık içerikleri sosyal ağ analizi yöntemleriyle incelemektedir.
 
